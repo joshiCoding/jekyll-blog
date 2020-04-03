@@ -1,0 +1,16 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/global.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"global\";\n@import \"main\";\n",
+		"*{\n  margin:0;\n  padding:0;\n  \n}\n",
+		"body{\n  background:lightblue;\n  color:black;\n}\n\nheader{\n  color:white;\n}"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,CAAC,CAAA,EACC,MAAM,EAAC,CAAC,EACR,OAAO,EAAC,CAAC,GAEV;;ACJD,AAAA,IAAI,CAAA,EACF,UAAU,EAAC,SAAS,EACpB,KAAK,EAAC,KAAK,GACZ;;AAED,AAAA,MAAM,CAAA,EACJ,KAAK,EAAC,KAAK,GACZ"
+}
